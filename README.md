@@ -86,18 +86,17 @@ Add your Figma link here:
 
 ## Screenshots
 
-## Screenshots
-
 ### Splash Screen
 
-![Splash Screen](./Splash%201.png)
+<img src="./Splash%201.png" width="250" alt="Catchit Splash Screen">
 
 ### Story Splash Screen
 
-![Story Splash Screen](./Splash%202.png)
+<img src="./Splash%202.png" width="250" alt="Catchit Story Splash Screen">
 
 ### Welcome Screen
 
-![Welcome Screen](./Welcome%20Screen.png)
+<img src="./Welcome%20Screen.png" width="250" alt="Catchit Welcome Screen">
+
 
 
