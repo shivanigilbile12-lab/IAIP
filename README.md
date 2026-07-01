@@ -43,6 +43,7 @@ Catchit aims to solve this problem by providing school bus tracking, stop update
 * Splash Screen
 * Story Splash Screen
 * Welcome Screen
+* Login Screen
 
 ## Screens Planned
 
@@ -81,7 +82,7 @@ Catchit aims to solve this problem by providing school bus tracking, stop update
 
 ## Figma Design Link
 
-Add your Figma link here:
+Figma link:
 [https://www.figma.com/design/03TcjzJnn9bGYwguLNLNWG/Untitled?node-id=0-1&p=f&t=DrmPzbRFex5bRNR6-0]
 
 ## Screenshots
@@ -97,6 +98,9 @@ Add your Figma link here:
 ### Welcome Screen
 
 <img src="./Welcome%20Screen.png" width="250" alt="Catchit Welcome Screen">
+
+### Login Screen
+<img src="./Login.png" width="250" alt="Catchit Login Screen">
 
 
 
