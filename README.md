@@ -11,7 +11,7 @@ The main idea behind Catchit is to reduce the daily confusion parents face aroun
 
 Catchit helps parents track the current bus, check the next stop, receive route updates, and stay informed about safer school travel options.
 
-## Internship Task
+## Task
 
 **Task:** Mobile App Login & Signup Screen
 **Domain:** UI/UX Design
